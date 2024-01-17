@@ -1,2 +1,6 @@
 creating my 1st power project1
 creating and updating my project
+#incloude <stdio.h>
+main
+printf {"updating my powerproject1}
+end 
